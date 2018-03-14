@@ -5,5 +5,6 @@
 Notes:
 - When you delete the .git folder things get weird...
 - How to fix - https://stackoverflow.com/questions/24472596/git-fatal-pathspec-is-in-submodule
-
-Different steps:
+- if "Updates were rejected because the remote contains work that you do not have"
+    - https://stackoverflow.com/questions/18328800/github-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-h
+    - Try this first - "git commit -am 'what I changed'"
