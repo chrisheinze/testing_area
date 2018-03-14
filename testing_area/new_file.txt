@@ -1,4 +1,4 @@
-# tuts: https://try.github.io/levels/1/challenges/11
+# tuts: https://try.github.io/levels/1/challenges/11 octocat... stuff
 # tuts: https://www.atlassian.com/git
 # docs: https://git-scm.com/docs
 

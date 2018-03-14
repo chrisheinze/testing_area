@@ -1,6 +1,6 @@
 # testing_area
-Test area
-
-- First update
 
 How did you get here...
+
+Just some practice using git and github. 
+Will probably be somewhat embarrassing looking back on this one day.
