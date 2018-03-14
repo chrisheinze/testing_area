@@ -1,1 +1,9 @@
-some random notes
+# tuts: https://try.github.io/levels/1/challenges/11
+# tuts: https://www.atlassian.com/git
+# docs: https://git-scm.com/docs
+
+Notes:
+- When you delete the .git folder things get weird...
+- How to fix - https://stackoverflow.com/questions/24472596/git-fatal-pathspec-is-in-submodule
+
+Different steps:
